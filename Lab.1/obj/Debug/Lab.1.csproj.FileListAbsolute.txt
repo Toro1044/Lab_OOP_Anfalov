@@ -1,0 +1,7 @@
+C:\Users\aavdr\Desktop\Лабы ООП\Лаба 1\Lab.1\bin\Debug\Lab.1.exe.config
+C:\Users\aavdr\Desktop\Лабы ООП\Лаба 1\Lab.1\bin\Debug\Lab.1.exe
+C:\Users\aavdr\Desktop\Лабы ООП\Лаба 1\Lab.1\bin\Debug\Lab.1.pdb
+C:\Users\aavdr\Desktop\Лабы ООП\Лаба 1\Lab.1\obj\Debug\Lab.1.csproj.AssemblyReference.cache
+C:\Users\aavdr\Desktop\Лабы ООП\Лаба 1\Lab.1\obj\Debug\Lab.1.csproj.CoreCompileInputs.cache
+C:\Users\aavdr\Desktop\Лабы ООП\Лаба 1\Lab.1\obj\Debug\Lab.1.exe
+C:\Users\aavdr\Desktop\Лабы ООП\Лаба 1\Lab.1\obj\Debug\Lab.1.pdb
