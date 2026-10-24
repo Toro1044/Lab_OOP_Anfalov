@@ -1,0 +1,7 @@
+C:\Users\aavdr\Desktop\Лабы ООП\Лаба 5\Lab5_Anfalov\bin\Debug\Lab5_Anfalov.exe.config
+C:\Users\aavdr\Desktop\Лабы ООП\Лаба 5\Lab5_Anfalov\bin\Debug\Lab5_Anfalov.exe
+C:\Users\aavdr\Desktop\Лабы ООП\Лаба 5\Lab5_Anfalov\bin\Debug\Lab5_Anfalov.pdb
+C:\Users\aavdr\Desktop\Лабы ООП\Лаба 5\Lab5_Anfalov\obj\Debug\Lab5_Anfalov.csproj.AssemblyReference.cache
+C:\Users\aavdr\Desktop\Лабы ООП\Лаба 5\Lab5_Anfalov\obj\Debug\Lab5_Anfalov.csproj.CoreCompileInputs.cache
+C:\Users\aavdr\Desktop\Лабы ООП\Лаба 5\Lab5_Anfalov\obj\Debug\Lab5_Anfalov.exe
+C:\Users\aavdr\Desktop\Лабы ООП\Лаба 5\Lab5_Anfalov\obj\Debug\Lab5_Anfalov.pdb
